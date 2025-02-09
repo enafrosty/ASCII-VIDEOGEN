@@ -1,2 +1,2 @@
 # ASCII-VIDEOGEN
-Later
+a script thats turns videos input into ASCII art
